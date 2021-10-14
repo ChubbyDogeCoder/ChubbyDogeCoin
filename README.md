@@ -1,0 +1,2 @@
+# ChubbyDogeCoin
+$CHUBBY ChubbyDogeCoin Protocol
